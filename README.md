@@ -1,4 +1,4 @@
-# Docker Go Healthchecks App [<img align="right" alt="Devopsian blog" title="Docker healthcheck app" src="https://devopsian.net/img/blog.svg" width="150" height="150">](https://devopsian.net/notes/docker-healthcheck-app/)
+# Docker Go Healthchecks App [<img align="right" alt="Devopsian blog" title="Docker healthcheck app" src="https://devopsian.net/img/blog.svg" width="80" height="80">](https://devopsian.net/notes/docker-healthcheck-app/)
 
 This repository is to experiment docker's HEALTHCHECK feature. You can (and should) configure HEALTHCHECK
 for your app. Docker will periodically run these checks and can take action if a container becomes unhealthy.
